@@ -3,7 +3,7 @@ import styles from './page4.css';
 
 export default function Page3() {
     return (
-        <div style='' class="container2">
+        <div class="container2">
         <div class="item2 a">A</div>
             <div class="item2 b">B</div>
             <div class="item2 c">C</div>
